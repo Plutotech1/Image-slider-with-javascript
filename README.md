@@ -9,7 +9,7 @@
 <div>
     <h1 align="center">The final look of the website</h1>
     <div align="center">
-        <img src="" width="99%">
+        <img src="https://github.com/Plutotech1/Image-slider-with-javascript/blob/main/Pluto%20Tech%20IMG.PNG" width="99%">
     </div>
 </div>
 <br /><br />
